@@ -1,7 +1,7 @@
 import Header from "./components/Header/Header";
 import MainPage from "./pages/MainPage/MainPage";
 
-// TODO: https://youtu.be/3iE8BbL0038?list=PLu_vAIOaYQ6Q5yLM3gtHmrrtYE-MywJg2&t=913
+// TODO: https://youtu.be/suowP9mWAso?list=PLu_vAIOaYQ6Q5yLM3gtHmrrtYE-MywJg2&t=214
 
 function App() {
   return (
