@@ -1,0 +1,14 @@
+.input {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #f2f3f5;
+  border-radius: 12px;
+  outline: none;
+  transition: all 0.3s ease;
+  &:focus {
+    border: 2px solid #6b4eff;
+  }
+//   &:hover {
+// 	border: 2px solid #6b4eff;
+//   }
+}
