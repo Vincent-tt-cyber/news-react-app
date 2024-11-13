@@ -11,6 +11,7 @@ const NewsItem = ({ item }) => {
         {/* <img className={styles["image"]} src={item.image} alt={item.title} /> */}
       </div>
       <div className={styles["info"]}>
+        {/* <Link to={item.link} >link</Link> */}
         <h3 className={styles["title"]}>{item.title}</h3>
         <p className={styles["date"]}>
           {formatTimeAgo(item.published)} by {item.author}
